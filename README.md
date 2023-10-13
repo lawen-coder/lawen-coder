@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my portfolio website and doing the #DaysOfCodeChallenge.
+- 🔭 I’m currently working on my portfolio website and doing the #100DaysOfCodeChallenge.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 - 👯 I’m looking to collaborate on projects with above technology.
 - 💬 Ask me about Tech, Movies, and Anime.
